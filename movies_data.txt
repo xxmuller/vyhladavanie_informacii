@@ -1,0 +1,279 @@
+MOVIE NAME: Sexmission
+director = Juliusz Machulski
+producer = Juliusz Machulski 
+writer = Pavel Hajný
+music = Henryk Kuźniak
+cinematography = Jerzy Łukaszewicz
+editing = Miroslawa Garlicka
+
+MOVIE NAME: Sleeper (1973 film)
+director = Woody Allen
+producer = Jack Grossberg 
+writer = Marshall Brickman
+music = Woody Allen 
+cinematography = David M. Walsh
+editing = Ralph Rosenblum
+
+MOVIE NAME: Iceman (1984 film)
+director = Fred Schepisi
+producer = Norman Jewison
+producer = Charles Milhaupt 
+producer = Patrick J. Palmer 
+screenplay =  
+writer = John Drimmer
+writer = Chip Proser 
+story =  
+music = Bruce Smeaton
+cinematography = Ian Baker (cinematographer)|Ian Baker
+editing = Billy Weber
+
+MOVIE NAME: Austin Powers: International Man of Mystery
+director = Jay Roach
+producer = Suzanne Todd
+producer = Demi Moore
+producer = Jennifer Todd
+producer = Mike Myers < ref name="AFI"/ > 
+writer = Mike Myers
+music = George S. Clinton
+cinematography = Peter Deming
+editing = Debra Neil-Fisher < ref name="AFI"/ > 
+
+MOVIE NAME: Vanilla Sky
+director = Cameron Crowe
+producer = Paula Wagner
+screenplay = Cameron Crowe 
+music = Nancy Wilson (rock musician)|Nancy Wilson
+cinematography = John Toll
+editing = Mark Livolsi
+
+MOVIE NAME: Forever Young (1992 film)
+director = Steve Miner
+producer = Bruce Davey
+writer = J. J. Abrams
+music = Jerry Goldsmith
+cinematography = Russell Boyd
+editing = Jon Poll
+
+MOVIE NAME: Open Your Eyes (1997 film)
+director = Alejandro Amenábar
+producer = Fernando Bovaira < br / > José Luis Cuerda 
+writer = Mateo Gil
+music = Alejandro Amenábar < br / > Mariano Marín 
+cinematography = Hans Burmann
+editing = María Elena Sáinz de Rozas 
+
+MOVIE NAME: Demolition Man (film)
+director = Marco Brambilla
+producer = Joel Silver
+producer = Michael Levy 
+producer = Howard Kazanjian
+screenplay = Daniel Waters (screenwriter)|Daniel Waters
+screenplay = Robert Reneau 
+screenplay = Peter M. Lenkov
+story = Peter M. Lenkov 
+story = Robert Reneau 
+music = Elliot Goldenthal
+cinematography = Alex Thomson (cinematographer)|Alex Thomson
+editing = Stuart Baird
+
+MOVIE NAME: Encino Man
+director = Les Mayfield
+producer = George Zaloom 
+producer = Hilton A. Green
+producer = Michael Rotenberg 
+writer = George Zaloom 
+writer = Shawn Schepps 
+music = J. Peter Robinson
+cinematography = Robert Brinkmann 
+editing = Michael Kelly 
+editing = Eric A. Sears 
+
+MOVIE NAME: JLA Adventures: Trapped in Time
+director = Giancarlo Volpe
+producer = Giancarlo Volpe 
+screenplay = Michael Ryan 
+music = Frederik Wiedmann
+cinematography =  
+editing = Bruce A. King 
+
+MOVIE NAME: Late for Dinner
+director = W. D. Richter
+producer = Gary Daigler < br / > Dan Lupovitz < br / > W. D. Richter 
+writer = Mark Andrus
+music = David Mansfield
+cinematography = Peter Sova
+editing = Robert Leighton (film editor)|Robert Leighton
+
+MOVIE NAME: Batman  &  Robin (film)
+director = Joel Schumacher
+producer = Peter MacGregor-Scott
+writer = Akiva Goldsman
+music = Elliot Goldenthal
+cinematography = Stephen Goldblatt
+editing = Mark Stevens (film editor)|Mark Stevens
+
+MOVIE NAME: Hibernatus
+director = Édouard Molinaro
+producer = Alain Poiré
+writer = Jacques Vilfrid
+music = Georges Delerue
+cinematography = Raymond Pierre Lemoigne
+editing = Monique Isnardon
+
+MOVIE NAME: Underworld: Blood Wars
+director = Anna Foerster
+producer = Tom Rosenberg
+producer = Gary Lucchesi
+producer = Len Wiseman 
+producer = Richard Wright 
+producer = David Kern 
+screenplay = Cory Goodman 
+story = Kyle Ward 
+story = Cory Goodman 
+music = Michael Wandmacher
+cinematography = Karl Walter Lindenlaub
+editing = Peter Amundson 
+
+MOVIE NAME: 2001: A Space Odyssey (film)
+director = Stanley Kubrick
+producer = Stanley Kubrick 
+screenplay = Stanley Kubrick 
+screenplay = Arthur C. Clarke
+cinematography = Geoffrey Unsworth
+editing = Ray Lovejoy
+
+MOVIE NAME: Star Trek Into Darkness
+director = J. J. Abrams
+producer = J. J. Abrams 
+producer = Bryan Burk
+producer = Damon Lindelof 
+producer = Alex Kurtzman 
+producer = Roberto Orci 
+writer = Roberto Orci
+writer = Alex Kurtzman
+writer = Damon Lindelof
+music = Michael Giacchino
+cinematography = Dan Mindel
+editing = Mary Jo Markey
+editing = Maryann Brandon
+
+MOVIE NAME: Alien (film)
+director = Ridley Scott
+producer = Gordon Carroll
+producer = David Giler
+producer = Walter Hill
+screenplay = Dan O'Bannon
+story = Dan O'Bannon 
+story = Ronald Shusett
+music = Jerry Goldsmith
+cinematography = Derek Vanlint
+editing = Terry Rawlings
+editing = Peter Weatherley
+
+MOVIE NAME: Realive
+director = Mateo Gil
+producer = Marina Fuentes Arredonda
+producer = Ibon Cormenzana
+producer = Ignasi Estapé
+producer = Jofre Farré
+producer = Genevieve Lemal
+producer = Sandra Tapia
+producer = Jérôme Vidal
+writer = Mateo Gil 
+music = Lucas Vidal
+cinematography = Pau Esteve Birba
+editing = Guillermo de la Cal
+
+MOVIE NAME: Jason X
+director = James Isaac|Jim Isaac
+producer = Noel Cunningham 
+writer = Todd Farmer
+music = Harry Manfredini
+cinematography = Derick V. Underschultz 
+editing = David Handman 
+
+MOVIE NAME: Frozen Alive (film)
+director = Bernard Knowles
+producer = Artur Brauner
+screenplay = Evelyn Frazer 
+writer =  
+story =  
+cinematography = Robert Ziller 
+editing = Steven Collins
+
+MOVIE NAME: Space Cop
+director = Jay Bauman 
+director = Mike Stoklasa 
+producer = Jay Bauman 
+producer = Mike Stoklasa 
+screenplay = Mike Stoklasa 
+story = Mike Stoklasa 
+story = Rich Evans 
+story = Jay Bauman 
+music = Marty Meinerz 
+cinematography = Jay Bauman 
+editing = Jay Bauman 
+
+MOVIE NAME: Captain America (1990 film)
+director = Albert Pyun
+producer = Joseph Calamari 
+producer = Menahem Golan
+producer = Tom Karnowski 
+producer = Stan Lee
+screenplay = Stephen Tolkin
+story = Stephen Tolkin 
+story = Lawrence J. Block (aka Larry Block) 
+music = Barry Goldberg
+cinematography = Philip Alan Waters 
+editing = Jon Poll
+
+MOVIE NAME: Order of the Black Eagle (film)
+director = Leonard Worth Keeter III 
+producer = Robert P. Eaton < br > Betty J. Stephens 
+screenplay = Phil Behrens 
+writer =  
+writer =  < !-- {{based on|title of the original work|writer of the original work}} -- > 
+story = Robert P. Eaton 
+music = Dee Barton
+cinematography = Irl Dixon 
+editing = Matthew Mallinson 
+
+MOVIE NAME: Passengers (2016 film)
+director = Morten Tyldum
+producer = Stephen Hamel 
+producer = Michael Maher 
+producer = Neal H. Moritz
+producer = Ori Marmur 
+writer = Jon Spaihts
+music = Thomas Newman
+cinematography = Rodrigo Prieto
+editing = Maryann Brandon
+
+MOVIE NAME: Idiocracy
+director = Mike Judge
+producer = Elysa Dutton|Elysa Koplovitz
+screenplay = Etan Cohen
+story = Mike Judge 
+music = Theodore Shapiro
+cinematography = Tim Suhrstedt
+editing = David Rennie (film editor)|David Rennie
+
+MOVIE NAME: Batman  &  Mr. Freeze: SubZero
+director = Boyd Kirkland
+producer = Boyd Kirkland < br / > Randy Rogel 
+writer = Boyd Kirkland < br / > Randy Rogel 
+music = Michael McCuistion 
+editing = Al Breitenbach 
+
+MOVIE NAME: Oxygen (2021 film)
+director = Alexandre Aja
+producer = Alexandre Aja 
+producer = Grégory Levasseur
+producer = Vincent Maraval 
+producer = Brahim Chioua 
+producer = Noëmie Devide 
+writer = Christie LeBlanc 
+music = Robin Coudert|Rob
+cinematography = Maxime Alexandre
+editing = Hervé Schneid
+
